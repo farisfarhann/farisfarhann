@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there, I'm Faris!
 
-<!--
-**farisfarhann/farisfarhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:frsfarhan.10@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://twitter.com/watchths">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://twitter.com/frsnurrachman">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+### About Me
+🌱 I’m a student of Computer Engineering Major at UNIKOM Bandung. </br>
+🚀 I'm determined to be a Fullstack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Faris's github stats](https://github-readme-stats.vercel.app/api?username=farisfarhann&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Faris's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farisfarhann&layout=compact&langs_count=8&hide_border=true)
+<br />
