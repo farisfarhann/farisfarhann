@@ -6,7 +6,7 @@
 <a href="https://twitter.com/watchths">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://twitter.com/frsnurrachman">
+<a href="https://instagram.com/frsnurrachman">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
