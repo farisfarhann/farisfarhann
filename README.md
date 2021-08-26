@@ -1,4 +1,4 @@
-### Hello there, I'm Faris!
+## Hello there, I'm Faris!
 
 <a href="mailto:frsfarhan.10@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -13,7 +13,7 @@
 <br />
 
 About Me
-==
+--
 🌱 I’m a student of Computer Engineering Major at UNIKOM Bandung. </br>
 🚀 I'm determined to be a Fullstack Developer
 
