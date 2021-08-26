@@ -9,8 +9,11 @@
 <a href="https://twitter.com/frsnurrachman">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
-### About Me
+
+<br />
+
+About Me
+==
 🌱 I’m a student of Computer Engineering Major at UNIKOM Bandung. </br>
 🚀 I'm determined to be a Fullstack Developer
 
